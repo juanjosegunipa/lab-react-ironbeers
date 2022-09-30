@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.home-links {
+  border: 1px solid rgb(99, 99, 99);
+  display: flex;
+  justify-content: center;
+  text-align: left;
+}
+
+.link-text {
+  padding: 20px;
+}
+
+input {
+  border-radius: 10px;
+  width: 40%;
+  padding: 15px 0px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  border-radius: 10px;
+  width: 40%;
+  padding: 15px 0px;
+  margin-bottom: 20px;
+}
+
+button {
+  border-radius: 10px;
+  width: 40%;
+  padding: 15px 0px;
+  margin-bottom: 20px;
+  background-color: rgb(112, 112, 255);
+}
